@@ -100,7 +100,7 @@ Durante estas lecciones interactuaremos con git a través de la terminal. En el 
 En este ejercicio, añadiremos un archivo a nuestro proyecto y crearemos un commit para cambiar la "memoria" de git.
 
 A continuación, escribe lo siguiente en tu terminal:
-
+https://github.com/andrexXx93/Henry.git
 ```bash
   $ cd henry
   $ touch archivo-ejemplo.js
